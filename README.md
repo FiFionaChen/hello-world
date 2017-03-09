@@ -1,2 +1,4 @@
 # hello-world
-n new little repository
+a new little repository
+Yifei here
+I am editing the readme.md file now
